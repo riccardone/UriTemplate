@@ -2,6 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Company />
+    <Authors>Riccardo Di Nuzzo</Authors>
+    <Description>Port of UriTemplate and UriTemplateMatch classes from the original Microsoft .Net Framework 4.8 and all the surrounded classes from System.ServiceModel.dll, System.ServiceModel.Web.dll</Description>
+    <PackageProjectUrl>https://github.com/riccardone/UriTemplate</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/riccardone/UriTemplate</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
+    <PackageTags>UriTemplate, UriTemplateMatch</PackageTags>
   </PropertyGroup>
 
 </Project>
