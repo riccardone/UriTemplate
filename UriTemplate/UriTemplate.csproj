@@ -10,6 +10,8 @@
     <RepositoryUrl>https://github.com/riccardone/UriTemplate</RepositoryUrl>
     <RepositoryType>Git</RepositoryType>
     <PackageTags>UriTemplate, UriTemplateMatch</PackageTags>
+    <SignAssembly>True</SignAssembly>
+    <AssemblyOriginatorKeyFile>uritemplate.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
 
 </Project>
