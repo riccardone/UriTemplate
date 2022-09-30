@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
@@ -12,6 +12,7 @@
     <PackageTags>UriTemplate, UriTemplateMatch</PackageTags>
     <SignAssembly>True</SignAssembly>
     <AssemblyOriginatorKeyFile>uritemplate.snk</AssemblyOriginatorKeyFile>
+    <VersionPrefix>1.0.1</VersionPrefix>
   </PropertyGroup>
 
 </Project>
