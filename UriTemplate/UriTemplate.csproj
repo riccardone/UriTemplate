@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
@@ -10,6 +10,9 @@
     <RepositoryUrl>https://github.com/riccardone/UriTemplate</RepositoryUrl>
     <RepositoryType>Git</RepositoryType>
     <PackageTags>UriTemplate, UriTemplateMatch</PackageTags>
+    <SignAssembly>True</SignAssembly>
+    <AssemblyOriginatorKeyFile>uritemplate.snk</AssemblyOriginatorKeyFile>
+    <VersionPrefix>1.0.1</VersionPrefix>
   </PropertyGroup>
 
 </Project>
